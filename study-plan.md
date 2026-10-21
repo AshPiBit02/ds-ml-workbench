@@ -1,4 +1,4 @@
-# 12-Month Data Science + Machine Learning Engineering Study Plan
+# 📊 12-Month Data Science + Machine Learning Engineering Study Plan
 
 **Duration:** 12 months (52 weeks)\
 **Study time:** 8--12 hours per week\
@@ -12,9 +12,30 @@ and assessment\
 **Additional goal:** Prepare a strong academic and technical profile for
 a master's degree abroad
 
-------------------------------------------------------------------------
+> [!NOTE]
+> **Professional dashboard view:** This plan keeps a fixed weekly cadence, milestone checks, and project-based evidence of progress across Data Science and ML Engineering.
 
-## 1. Plan Overview
+| 📌 Plan Snapshot | Value |
+|---|---|
+| **Duration** | 12 months (52 weeks) |
+| **Weekly Study Time** | 8--12 hours |
+| **Primary Track** | Data Science + Machine Learning Engineering |
+| **Outcome Focus** | Reproducible projects, evaluation rigor, and portfolio readiness |
+
+### 🧭 Quick Navigation
+- [📘 Plan Overview](#-1-plan-overview)
+- [🗓️ Fixed Weekly Timetable](#️-2-fixed-weekly-timetable)
+- [🗺️ Detailed 52-Week Curriculum](#️-3-detailed-52-week-curriculum)
+- [📝 Notes and Revision System](#-4-notes-and-revision-system)
+- [✅ Exercise Levels and Answer Checks](#-5-exercise-levels-and-answer-checks)
+- [🧱 Portfolio Projects](#-6-portfolio-projects)
+- [📚 Free Learning Resource Library](#-7-free-learning-resource-library)
+- [🎯 Monthly Milestone Checklist](#-8-monthly-milestone-checklist)
+- [🎓 Master's Abroad Preparation](#-9-masters-abroad-preparation)
+- [📜 Rules for the Year](#-10-rules-for-the-year)
+
+---
+## 📘 1. Plan Overview
 
 The plan develops two complementary skill sets:
 
@@ -29,91 +50,40 @@ applied projects and engineering. Deep learning, Spark, Kubernetes,
 advanced cloud infrastructure, and complex MLOps are optional
 extensions---not prerequisites for completing this plan.
 
-### Twelve-month roadmap
+### 🧭 Twelve-month roadmap
 
-  -----------------------------------------------------------------------
-  Month                   Main focus              Expected deliverable
-  ----------------------- ----------------------- -----------------------
-  1                       NumPy, Pandas, data     Clean dataset and
-                          cleaning, Git           analysis notebook
+| Month | Main focus | Expected deliverable |
+|---|---|---|
+| 1 | NumPy, Pandas, data cleaning, Git | Clean dataset and analysis notebook |
+| 2 | SQL, EDA, visualization | EDA report with useful findings |
+| 3 | Probability, descriptive statistics, distributions | Simulation exercises and formula notes |
+| 4 | Inference, hypothesis testing, experiments | Statistical investigation report |
+| 5 | ML workflow, regression, preprocessing | Reproducible regression project |
+| 6 | Classification, trees, ensembles, evaluation | Classification project with fair model comparison |
+| 7 | Advanced SQL, feature engineering, clustering, PCA | Segmentation or unsupervised-learning study |
+| 8 | Explainability, dashboards, data storytelling | Interactive dashboard and report |
+| 9 | Software engineering, tests, APIs, Docker | Tested prediction API |
+| 10 | MLflow, CI, deployment and monitoring concepts | Reproducible model service |
+| 11 | Capstone proposal and implementation | End-to-end capstone |
+| 12 | Portfolio polish, revision, graduate-school preparation | Published portfolio and application checklist |
 
-  2                       SQL, EDA, visualization EDA report with useful
-                                                  findings
-
-  3                       Probability,            Simulation exercises
-                          descriptive statistics, and formula notes
-                          distributions           
-
-  4                       Inference, hypothesis   Statistical
-                          testing, experiments    investigation report
-
-  5                       ML workflow,            Reproducible regression
-                          regression,             project
-                          preprocessing           
-
-  6                       Classification, trees,  Classification project
-                          ensembles, evaluation   with fair model
-                                                  comparison
-
-  7                       Advanced SQL, feature   Segmentation or
-                          engineering,            unsupervised-learning
-                          clustering, PCA         study
-
-  8                       Explainability,         Interactive dashboard
-                          dashboards, data        and report
-                          storytelling            
-
-  9                       Software engineering,   Tested prediction API
-                          tests, APIs, Docker     
-
-  10                      MLflow, CI, deployment  Reproducible model
-                          and monitoring concepts service
-
-  11                      Capstone proposal and   End-to-end capstone
-                          implementation          
-
-  12                      Portfolio polish,       Published portfolio and
-                          revision,               application checklist
-                          graduate-school         
-                          preparation             
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## 2. Fixed Weekly Timetable
+---
+## 🗓️ 2. Fixed Weekly Timetable
 
 This default schedule provides **9 planned hours per week**, leaving
 1--3 flexible hours for difficult topics, extra project work, or
 university deadlines.
 
-  ------------------------------------------------------------------------
-  Day                                           Time Activity
-  --------------------- ---------------------------- ---------------------
-  Monday                                      1 hour Learn concepts and
-                                                     write concise notes
+| Day | Time | Activity |
+|---|---:|---|
+| Monday | 1 hour | Learn concepts and write concise notes |
+| Tuesday | 1.5 hours | Guided coding and reproduce key examples |
+| Wednesday | 1 hour | Math, SQL, or problem-solving practice |
+| Thursday | 1.5 hours | Independent exercises without looking at solutions first |
+| Saturday | 3 hours | Project development using the week's concepts |
+| Sunday | 1 hour | Quiz, error correction, revision, and planning |
 
-  Tuesday                                  1.5 hours Guided coding and
-                                                     reproduce key
-                                                     examples
-
-  Wednesday                                   1 hour Math, SQL, or
-                                                     problem-solving
-                                                     practice
-
-  Thursday                                 1.5 hours Independent exercises
-                                                     without looking at
-                                                     solutions first
-
-  Saturday                                   3 hours Project development
-                                                     using the week's
-                                                     concepts
-
-  Sunday                                      1 hour Quiz, error
-                                                     correction, revision,
-                                                     and planning
-  ------------------------------------------------------------------------
-
-### Weekly learning loop
+### 🔁 Weekly learning loop
 
 1.  Read or watch one focused lesson.
 2.  Write short notes in your own words.
@@ -126,16 +96,18 @@ university deadlines.
 During university exams, use a reduced maintenance schedule rather than
 attempting to catch up on everything at once.
 
-------------------------------------------------------------------------
+---
+# 🗺️ 3. Detailed 52-Week Curriculum
 
-# 3. Detailed 52-Week Curriculum
+> [!TIP]
+> **How to use this roadmap:** Treat each week as a deliverable unit—complete the exercises, perform the answer checks, and only then move forward.
 
-## Month 1 --- NumPy, Pandas, and Data Quality
+## 🟦 Month 1 — NumPy, Pandas, and Data Quality
 
 **Goal:** Transform unfamiliar datasets reliably and explain
 data-cleaning decisions.
 
-### Week 1 --- NumPy arrays and vectorization
+### 📅 Week 1 — NumPy arrays and vectorization
 
 **Topics and concepts** - Arrays, dimensions, shapes, dtypes, indexing -
 Vectorized calculations versus Python loops - Broadcasting rules and
@@ -156,7 +128,7 @@ outputs with a small hand calculation.
 
 **Weekly deliverable:** a notebook of array exercises with explanations.
 
-### Week 2 --- NumPy indexing and array operations
+### 📅 Week 2 — NumPy indexing and array operations
 
 **Topics and concepts** - Slicing, Boolean masks, fancy indexing -
 `where`, `argsort`, `argmax`, `argmin`, `nonzero` - `take`, `put`,
@@ -173,7 +145,7 @@ where relevant. - Check boundary cases and ties.
 
 **Weekly deliverable:** a compact NumPy exercise notebook.
 
-### Week 3 --- Pandas manipulation
+### 📅 Week 3 — Pandas manipulation
 
 **Topics and concepts** - Series and DataFrames - Selection, filtering,
 sorting - `groupby`, `agg`, `transform` - `merge`, concatenation,
@@ -189,7 +161,7 @@ between grouped aggregation and row-preserving transformation.
 
 **Weekly deliverable:** a notebook answering ten data questions.
 
-### Week 4 --- Data cleaning and Git
+### 📅 Week 4 — Data cleaning and Git
 
 **Topics and concepts** - Missing values, duplicates, inconsistent
 categories - Type conversion and date parsing - Outlier investigation -
@@ -211,13 +183,12 @@ Adult](https://archive.ics.uci.edu/dataset/2/adult).
 **Month 1 milestone:** clean a dataset and explain the steps from raw
 data to analysis-ready data.
 
-------------------------------------------------------------------------
-
-## Month 2 --- SQL, EDA, and Visualization
+---
+## 🟦 Month 2 — SQL, EDA, and Visualization
 
 **Goal:** Query datasets independently and communicate findings clearly.
 
-### Week 5 --- SQL fundamentals
+### 📅 Week 5 — SQL fundamentals
 
 **Topics and concepts** - `SELECT`, `WHERE`, `CASE`, `ORDER BY` - `NULL`
 and three-valued logic - Aggregation, `GROUP BY`, `HAVING` - Filtering
@@ -231,7 +202,7 @@ Practice conditions involving missing values.
 `NULL` handling explicitly. - Test queries on a small hand-checkable
 table.
 
-### Week 6 --- Joins, subqueries, and CTEs
+### 📅 Week 6 — Joins, subqueries, and CTEs
 
 **Topics and concepts** - Inner and left joins - Primary and foreign
 keys - Subqueries and common table expressions - Date functions -
@@ -247,7 +218,7 @@ after joining.
 
 **Resource:** [SQLBolt](https://sqlbolt.com/).
 
-### Week 7 --- Exploratory data analysis
+### 📅 Week 7 — Exploratory data analysis
 
 **Topics and concepts** - Univariate and bivariate analysis - Numerical
 and categorical variables - Distributions, outliers, and missingness -
@@ -261,7 +232,7 @@ surprising results and possible explanations.
 not infer causation from correlation. - Explain missing data and
 limitations.
 
-### Week 8 --- Visualization and reporting
+### 📅 Week 8 — Visualization and reporting
 
 **Topics and concepts** - Histograms, boxplots, scatterplots, line
 charts - Choosing suitable plots - Titles, labels, scales, and
@@ -288,13 +259,12 @@ README
 **Month 2 milestone:** write SQL joins and grouped queries independently
 and produce a reproducible EDA report.
 
-------------------------------------------------------------------------
-
-## Month 3 --- Probability, Descriptive Statistics, and Distributions
+---
+## 🟦 Month 3 — Probability, Descriptive Statistics, and Distributions
 
 **Goal:** Build the statistical foundation for machine learning.
 
-### Week 9 --- Descriptive statistics
+### 📅 Week 9 — Descriptive statistics
 
 **Topics and concepts** - Population versus sample - Mean, median, mode,
 quantiles - Variance and standard deviation - Robust summaries and
@@ -307,7 +277,7 @@ adding an extreme value.
 **Answer checks** - Sample variance uses `n - 1`; population variance
 uses `n`. - Explain how outliers affect different summary measures.
 
-### Week 10 --- Probability rules
+### 📅 Week 10 — Probability rules
 
 **Topics and concepts** - Sample spaces and events - Addition and
 multiplication rules - Conditional probability - Independence - Bayes'
@@ -320,7 +290,7 @@ conditional probabilities. - Work through one Bayes' theorem example.
 independent events. - Verify that probabilities are between zero and
 one. - State the assumptions used.
 
-### Week 11 --- Random variables and distributions
+### 📅 Week 11 — Random variables and distributions
 
 **Topics and concepts** - Discrete and continuous random variables -
 Expectation and variance - Bernoulli, binomial, normal, and Poisson
@@ -334,7 +304,7 @@ expectations.
 Simulation approximates theoretical values but will not match them
 exactly every time.
 
-### Week 12 --- Sampling and the Central Limit Theorem
+### 📅 Week 12 — Sampling and the Central Limit Theorem
 
 **Topics and concepts** - Sampling distributions - Standard error -
 Central Limit Theorem - Law of large numbers - Sample size and
@@ -356,14 +326,13 @@ Probability](https://www.khanacademy.org/math/statistics-probability).
 **Month 3 milestone:** explain core probability rules and distributions,
 and solve applied exercises without relying entirely on library calls.
 
-------------------------------------------------------------------------
-
-## Month 4 --- Statistical Inference and Experimentation
+---
+## 🟦 Month 4 — Statistical Inference and Experimentation
 
 **Goal:** Reason about evidence, uncertainty, and the limitations of
 conclusions.
 
-### Week 13 --- Estimation and confidence intervals
+### 📅 Week 13 — Estimation and confidence intervals
 
 **Topics and concepts** - Point estimates - Confidence intervals -
 Bootstrap resampling - Sampling variability
@@ -376,7 +345,7 @@ produced by a procedure with a long-run coverage property; it is not
 ordinarily interpreted as a probability assigned to a fixed parameter
 after the interval is observed.
 
-### Week 14 --- Hypothesis testing
+### 📅 Week 14 — Hypothesis testing
 
 **Topics and concepts** - Null and alternative hypotheses - Test
 statistics and p-values - Significance levels - Type I and Type II
@@ -389,7 +358,7 @@ suitable test. - Explain what the p-value does and does not indicate.
 p-value does not prove a hypothesis. - Statistical significance does not
 automatically imply practical importance.
 
-### Week 15 --- Common statistical tests
+### 📅 Week 15 — Common statistical tests
 
 **Topics and concepts** - t-tests - Chi-square tests - Nonparametric
 alternatives - Multiple comparisons - Effect sizes and uncertainty
@@ -401,7 +370,7 @@ categorical variables. - Report an effect size alongside a test result.
 suitable. - Explain the result in context rather than reporting only a
 p-value.
 
-### Week 16 --- Correlation, regression, and experiments
+### 📅 Week 16 — Correlation, regression, and experiments
 
 **Topics and concepts** - Correlation and confounding - Simple linear
 regression - Residuals and assumptions - A/B testing - Experimental
@@ -426,14 +395,13 @@ A cautious conclusion and limitations
 **Month 4 milestone:** choose a reasonable statistical method and
 explain uncertainty without overstating the evidence.
 
-------------------------------------------------------------------------
-
-## Month 5 --- ML Workflow, Regression, and Preprocessing
+---
+## 🟦 Month 5 — ML Workflow, Regression, and Preprocessing
 
 **Goal:** Understand the machine-learning workflow before learning many
 algorithms.
 
-### Week 17 --- ML fundamentals
+### 📅 Week 17 — ML fundamentals
 
 **Topics and concepts** - Supervised and unsupervised learning -
 Features, targets, and prediction tasks - Baselines - Training,
@@ -446,7 +414,7 @@ candidate features. - Build a simple baseline.
 **Answer checks** - Hold back the test set until final evaluation. -
 Check that features would be available at prediction time.
 
-### Week 18 --- Linear regression and regularization
+### 📅 Week 18 — Linear regression and regularization
 
 **Topics and concepts** - Linear regression - Loss functions and
 coefficients - Residuals and assumptions - Ridge and Lasso intuition -
@@ -459,7 +427,7 @@ scaling.
 **Answer checks** - Explain what a coefficient means under the model. -
 Avoid treating association as causation.
 
-### Week 19 --- Regression evaluation
+### 📅 Week 19 — Regression evaluation
 
 **Topics and concepts** - MAE, MSE, RMSE, and R-squared -
 Cross-validation - Residual analysis - Baseline comparison
@@ -473,7 +441,7 @@ squared units. - R-squared is not a direct measure of whether
 predictions are practically acceptable. - Explain why a baseline is
 needed.
 
-### Week 20 --- Preprocessing and pipelines
+### 📅 Week 20 — Preprocessing and pipelines
 
 **Topics and concepts** - Imputation - Numerical scaling - Categorical
 encoding - `Pipeline` and `ColumnTransformer` - Data leakage prevention
@@ -495,14 +463,13 @@ evaluation - Limitations and reproducible setup instructions
 **Resource:** [Scikit-learn Getting
 Started](https://scikit-learn.org/stable/getting_started.html).
 
-------------------------------------------------------------------------
-
-## Month 6 --- Classification, Trees, Ensembles, and Model Selection
+---
+## 🟦 Month 6 — Classification, Trees, Ensembles, and Model Selection
 
 **Goal:** Build a strong classification workflow and compare models
 fairly.
 
-### Week 21 --- Logistic regression
+### 📅 Week 21 — Logistic regression
 
 **Topics and concepts** - Classification versus regression - Sigmoid
 function - Probability estimates - Decision thresholds - Logistic
@@ -515,7 +482,7 @@ Compare precision and recall.
 scores stay the same. - Explain why the threshold should reflect the
 task's costs.
 
-### Week 22 --- Classification metrics
+### 📅 Week 22 — Classification metrics
 
 **Topics and concepts** - Confusion matrix - Precision, recall,
 specificity, F1 - ROC-AUC and PR-AUC - Class imbalance
@@ -527,7 +494,7 @@ accuracy with precision and recall. - Justify a primary metric.
 imbalanced. - Select metrics according to the cost of false positives
 and false negatives.
 
-### Week 23 --- Trees and ensembles
+### 📅 Week 23 — Trees and ensembles
 
 **Topics and concepts** - Decision trees - Random forests - Gradient
 boosting - XGBoost/CatBoost awareness - Feature importance limitations
@@ -539,7 +506,7 @@ and model complexity.
 **Answer checks** - Compare models using the same data and metric. -
 Avoid choosing a model solely because its training score is high.
 
-### Week 24 --- Validation and tuning
+### 📅 Week 24 — Validation and tuning
 
 **Topics and concepts** - Cross-validation - Hyperparameter search -
 Stratified splitting - Class weights - Calibration - Error analysis and
@@ -566,14 +533,13 @@ analysis - Feature-importance caveats - Reproducible final evaluation
 For health-related datasets, present the project as educational
 modeling, not medical advice.
 
-------------------------------------------------------------------------
-
-## Month 7 --- Advanced SQL, Feature Engineering, Clustering, and PCA
+---
+## 🟦 Month 7 — Advanced SQL, Feature Engineering, Clustering, and PCA
 
 **Goal:** Handle realistic data workflows and learn beyond supervised
 prediction.
 
-### Week 25 --- Advanced SQL
+### 📅 Week 25 — Advanced SQL
 
 **Topics and concepts** - Common table expressions - Window functions -
 `ROW_NUMBER`, `RANK`, `LAG` - Running totals and rolling aggregates -
@@ -587,7 +553,7 @@ aggregates.
 Understand when a window function preserves rows instead of collapsing
 them.
 
-### Week 26 --- Feature engineering
+### 📅 Week 26 — Feature engineering
 
 **Topics and concepts** - Date/time features - Categorical cardinality -
 Domain-driven features - Missingness indicators - Leakage prevention
@@ -598,7 +564,7 @@ Compare model results before and after feature engineering.
 **Answer checks** - Every feature must be available at prediction
 time. - Evaluate improvements with the same validation process.
 
-### Week 27 --- Clustering
+### 📅 Week 27 — Clustering
 
 **Topics and concepts** - K-means - Distance metrics - Scaling -
 Choosing cluster counts - Silhouette score and stability
@@ -610,7 +576,7 @@ plausible cluster counts. - Profile the resulting groups.
 segments. - Explain the effect of scaling and the limitations of
 internal metrics.
 
-### Week 28 --- PCA and anomaly detection
+### 📅 Week 28 — PCA and anomaly detection
 
 **Topics and concepts** - Dimensionality reduction - Principal
 components - Explained variance - Anomaly-detection introduction
@@ -630,13 +596,12 @@ limitations.
 Clustering](https://scikit-learn.org/stable/modules/clustering.html) and
 [PCA](https://scikit-learn.org/stable/modules/decomposition.html#pca).
 
-------------------------------------------------------------------------
-
-## Month 8 --- Explainability, Dashboards, and Data Storytelling
+---
+## 🟦 Month 8 — Explainability, Dashboards, and Data Storytelling
 
 **Goal:** Turn technical analysis into a useful decision-support tool.
 
-### Week 29 --- Explainability
+### 📅 Week 29 — Explainability
 
 **Topics and concepts** - Permutation importance - Tree-based
 importance - SHAP concepts - Correlated features - Local versus global
@@ -648,7 +613,7 @@ methods. - Record where an explanation may be misleading.
 **Answer checks** - Feature importance is not proof of causality. -
 Correlated features can make importance difficult to interpret.
 
-### Week 30 --- Dashboard design
+### 📅 Week 30 — Dashboard design
 
 **Topics and concepts** - KPIs and user questions - Filters and chart
 selection - Layout and visual hierarchy - Accessibility and clear labels
@@ -657,7 +622,7 @@ selection - Layout and visual hierarchy - Accessibility and clear labels
 meaningful metrics. - Ask whether each visual answers a specific
 question.
 
-### Week 31 --- Streamlit
+### 📅 Week 31 — Streamlit
 
 **Topics and concepts** - App structure - User inputs and filters -
 Tables and charts - Input validation - Handling empty results
@@ -665,7 +630,7 @@ Tables and charts - Input validation - Handling empty results
 **Exercises** - Build an interactive dashboard or prediction
 interface. - Test valid and invalid input combinations.
 
-### Week 32 --- Reporting and recommendations
+### 📅 Week 32 — Reporting and recommendations
 
 **Topics and concepts** - Executive summaries - Evidence-based
 recommendations - Limitations and caveats - Reproducibility and
@@ -684,13 +649,12 @@ and setup instructions
 **Resources:** [Streamlit](https://docs.streamlit.io/) and
 [Matplotlib](https://matplotlib.org/stable/tutorials/).
 
-------------------------------------------------------------------------
-
-## Month 9 --- Software Engineering for ML
+---
+## 🟦 Month 9 — Software Engineering for ML
 
 **Goal:** Move from notebook-only work to testable, reusable code.
 
-### Week 33 --- Project structure and environments
+### 📅 Week 33 — Project structure and environments
 
 **Topics and concepts** - Modules and packages - Configuration - Virtual
 environments and dependencies - Logging - Reproducibility
@@ -702,7 +666,7 @@ clear project structure. - Document setup and execution.
 clean environment. - Avoid relying on hidden notebook state or absolute
 local paths.
 
-### Week 34 --- Testing and data validation
+### 📅 Week 34 — Testing and data validation
 
 **Topics and concepts** - Unit tests with pytest - Edge cases - Data
 validation - Deterministic behavior - Testable function design
@@ -713,7 +677,7 @@ Include missing values, empty inputs, invalid types, and boundary cases.
 **Answer checks** - Tests should fail when behavior is deliberately
 broken. - Cover expected and invalid inputs.
 
-### Week 35 --- REST APIs and FastAPI
+### 📅 Week 35 — REST APIs and FastAPI
 
 **Topics and concepts** - HTTP methods and status codes - JSON - Request
 and response schemas - Input validation - API documentation
@@ -724,7 +688,7 @@ features. - Return predictions and useful error responses.
 **Answer checks** - Invalid requests should not silently produce
 unreliable predictions. - Document an example request and response.
 
-### Week 36 --- Serialization and Docker
+### 📅 Week 36 — Serialization and Docker
 
 **Topics and concepts** - Saving and loading models - Model and
 preprocessing consistency - Docker images and containers - Environment
@@ -744,13 +708,12 @@ preprocessing, tests, documentation, and a container.
 [FastAPI](https://fastapi.tiangolo.com/tutorial/), [Docker Get
 Started](https://docs.docker.com/get-started/).
 
-------------------------------------------------------------------------
-
-## Month 10 --- Experiment Tracking, CI, Deployment, and Monitoring
+---
+## 🟦 Month 10 — Experiment Tracking, CI, Deployment, and Monitoring
 
 **Goal:** Build a small but credible production-style ML workflow.
 
-### Week 37 --- MLflow tracking
+### 📅 Week 37 — MLflow tracking
 
 **Topics and concepts** - Experiment names and runs - Parameters,
 metrics, artifacts - Model comparison - Reproducibility
@@ -761,7 +724,7 @@ and results.
 **Answer checks** - Each run should connect its configuration, metrics,
 and artifacts.
 
-### Week 38 --- Model documentation and versioning
+### 📅 Week 38 — Model documentation and versioning
 
 **Topics and concepts** - Model versioning concepts - Artifact
 management - Reproducible data and code - Model cards and limitations
@@ -769,7 +732,7 @@ management - Reproducible data and code - Model cards and limitations
 **Exercises** - Document intended use, data source, evaluation, and
 limitations. - Identify the exact model artifact used by the API.
 
-### Week 39 --- Continuous integration
+### 📅 Week 39 — Continuous integration
 
 **Topics and concepts** - GitHub Actions - Automated tests - Linting and
 formatting - Build checks
@@ -777,7 +740,7 @@ formatting - Build checks
 **Exercises** - Add a workflow that runs tests on changes. -
 Deliberately introduce a failing test and verify that CI detects it.
 
-### Week 40 --- Deployment and monitoring concepts
+### 📅 Week 40 — Deployment and monitoring concepts
 
 **Topics and concepts** - Deployment options - Secrets and
 configuration - Data drift versus performance drift - Logging and
@@ -798,14 +761,13 @@ plan.
 Quickstart](https://mlflow.org/docs/latest/ml/getting-started/quickstart/)
 and [GitHub Actions](https://docs.github.com/en/actions).
 
-------------------------------------------------------------------------
-
-## Month 11 --- Capstone Project
+---
+## 🟦 Month 11 — Capstone Project
 
 **Goal:** Combine analysis, statistics, ML, and software engineering
 into one polished project.
 
-### Week 41 --- Problem framing and proposal
+### 📅 Week 41 — Problem framing and proposal
 
 **Topics and concepts** - Problem definition - Research question -
 Dataset selection - Data dictionary - Evaluation plan
@@ -817,7 +779,7 @@ use, success metric, and potential limitations.
 suitable and legally/ethically usable. - The evaluation method must
 match the question.
 
-### Week 42 --- Data preparation and EDA
+### 📅 Week 42 — Data preparation and EDA
 
 **Topics and concepts** - Data ingestion and cleaning - Exploratory
 analysis - Statistical investigation - Feature pipeline
@@ -828,7 +790,7 @@ Document missingness, duplicates, and data-quality decisions.
 **Answer checks** - Check for target leakage and train/test
 contamination. - Verify all transformations can be reproduced.
 
-### Week 43 --- Modeling and evaluation
+### 📅 Week 43 — Modeling and evaluation
 
 **Topics and concepts** - Baselines - Model comparison and tuning -
 Error analysis - Explainability - Limitations
@@ -840,7 +802,7 @@ improve results.
 **Answer checks** - Compare models fairly. - Avoid choosing a model only
 because it has the highest training score.
 
-### Week 44 --- Application integration
+### 📅 Week 44 — Application integration
 
 **Topics and concepts** - API or dashboard integration - Testing -
 Documentation - Demo preparation
@@ -851,7 +813,7 @@ end-to-end workflow. - Write reproduction instructions.
 **Answer checks** - Another person should be able to follow the README
 and reproduce the key result.
 
-### Choose one specialization
+### 🎯 Choose one specialization
 
 -   **Applied Data Science:** experimentation, advanced SQL,
     forecasting, causal reasoning basics.
@@ -862,11 +824,10 @@ and reproduce the key result.
 -   **Deep learning introduction:** neural-network fundamentals and
     PyTorch, provided classical ML foundations are solid.
 
-------------------------------------------------------------------------
+---
+## 🟦 Month 12 — Portfolio, Revision, and Master's Preparation
 
-## Month 12 --- Portfolio, Revision, and Master's Preparation
-
-### Week 45 --- Portfolio audit
+### 📅 Week 45 — Portfolio audit
 
 -   Polish READMEs and project structure.
 -   Remove broken instructions and unexplained code.
@@ -875,7 +836,7 @@ and reproduce the key result.
 **Check:** a reviewer can understand each project's question, method,
 results, and limitations.
 
-### Week 46 --- Statistics and ML revision
+### 📅 Week 46 — Statistics and ML revision
 
 -   Revise probability, inference, regression, classification, metrics,
     and leakage.
@@ -885,7 +846,7 @@ results, and limitations.
 **Check:** explain concepts and solve problems without copying a worked
 example.
 
-### Week 47 --- SQL, Python, and technical communication
+### 📅 Week 47 — SQL, Python, and technical communication
 
 -   Solve mixed SQL questions.
 -   Practice explaining a project aloud.
@@ -894,7 +855,7 @@ example.
 **Check:** explain the problem, data, method, evaluation, limitations,
 and practical value clearly.
 
-### Week 48 --- Graduate program research
+### 📅 Week 48 — Graduate program research
 
 -   Shortlist Data Science, Statistics, AI, or Computer Science
     programs.
@@ -905,7 +866,7 @@ and practical value clearly.
 **Check:** maintain a comparison sheet and realistic application
 timeline.
 
-### Week 49 --- Capstone polish
+### 📅 Week 49 — Capstone polish
 
 -   Fix high-impact defects.
 -   Repeat tests and deployment checks.
@@ -913,7 +874,7 @@ timeline.
 
 **Check:** reproduce the capstone from documented instructions.
 
-### Week 50 --- Academic communication
+### 📅 Week 50 — Academic communication
 
 -   Prepare an academic CV draft.
 -   Outline a statement of purpose based on genuine interests and
@@ -924,7 +885,7 @@ timeline.
 **Check:** all claims are accurate and supported by actual coursework,
 projects, or experience.
 
-### Week 51 --- Portfolio review and demo
+### 📅 Week 51 — Portfolio review and demo
 
 -   Request feedback on your repository or demonstration.
 -   Practice answering questions about methodology and limitations.
@@ -933,7 +894,7 @@ projects, or experience.
 **Check:** demonstrate the project without relying on undocumented
 steps.
 
-### Week 52 --- Annual assessment
+### 📅 Week 52 — Annual assessment
 
 -   Review the milestone checklist.
 -   Identify the three biggest remaining skill gaps.
@@ -943,14 +904,13 @@ steps.
 **Check:** make the next learning plan based on demonstrated strengths
 and weaknesses, not simply on the number of courses completed.
 
-------------------------------------------------------------------------
-
-# 4. Notes and Revision System
+---
+# 📝 4. Notes and Revision System
 
 Keep notes separate from projects. A local folder or a GitHub repository
 works well.
 
-## Suggested structure
+## 🧱 Suggested structure
 
 ``` text
 data-science-learning/
@@ -977,7 +937,7 @@ data-science-learning/
     └── monthly-reviews.md
 ```
 
-## Topic note template
+## 🧾 Topic note template
 
 For each important concept, record:
 
@@ -991,7 +951,7 @@ For each important concept, record:
 6.  **Recall questions:** Write three to five questions to answer
     without notes.
 
-## Example: precision and recall
+## 🔍 Example: precision and recall
 
 -   **Precision:** among predicted positives, how many were actually
     positive?
@@ -1007,31 +967,21 @@ For each important concept, record:
 -   **Recall question:** if a model identifies half the actual positive
     cases, what is its recall? **Answer: 50%.**
 
-## Spaced revision schedule
+## ⏱️ Spaced revision schedule
 
-  -----------------------------------------------------------------------
-  When                                Activity
-  ----------------------------------- -----------------------------------
-  Same day                            Summarize the main idea from memory
-
-  Two days later                      Answer recall questions and redo
-                                      one exercise
-
-  One week later                      Solve a new problem without
-                                      following a tutorial
-
-  One month later                     Complete a mixed-topic assessment
-
-  End of phase                        Explain the topic and demonstrate
-                                      it in code without notes
-  -----------------------------------------------------------------------
+| When | Activity |
+|---|---|
+| Same day | Summarize the main idea from memory |
+| Two days later | Answer recall questions and redo one exercise |
+| One week later | Solve a new problem without following a tutorial |
+| One month later | Complete a mixed-topic assessment |
+| End of phase | Explain the topic and demonstrate it in code without notes |
 
 Keep a `mistakes.md` file with: mistake, why it happened, correct
 reasoning, and a new test to prevent it.
 
-------------------------------------------------------------------------
-
-# 5. Exercise Levels and Answer Checks
+---
+# ✅ 5. Exercise Levels and Answer Checks
 
 For every major topic, complete three levels:
 
@@ -1042,7 +992,7 @@ For every major topic, complete three levels:
 3.  **Combine:** apply the concept alongside previous topics in a
     mini-project.
 
-## Example answer-check standards
+## 🧪 Example answer-check standards
 
 ### SQL: top three categories by sales
 
@@ -1078,11 +1028,10 @@ For open-ended ML work, there may not be one correct score. Sound
 methodology, validation, interpretation, and reproducibility matter as
 much as the metric.
 
-------------------------------------------------------------------------
+---
+# 🧱 6. Portfolio Projects
 
-# 6. Portfolio Projects
-
-## Project 1 --- Exploratory Data Analysis (Month 2)
+## 🧩 Project 1 — Exploratory Data Analysis (Month 2)
 
 **Skills:** Pandas, SQL, statistics, visualization, communication.
 
@@ -1093,7 +1042,7 @@ questions. - Produce a report with five findings and limitations.
 **Acceptance criteria:** reproducible notebook, data dictionary,
 meaningful plots, README, and conclusions supported by results.
 
-## Project 2 --- Predictive Modeling (Month 6)
+## 🧩 Project 2 — Predictive Modeling (Month 6)
 
 **Skills:** scikit-learn, feature engineering, model evaluation,
 validation.
@@ -1106,7 +1055,7 @@ limitations.
 **Acceptance criteria:** leakage-free pipeline, justified model choice,
 recorded experiments, and reproducible evaluation.
 
-## Project 3 --- Interactive Data App (Month 8)
+## 🧩 Project 3 — Interactive Data App (Month 8)
 
 **Skills:** Streamlit, visualization, reporting, basic application
 design.
@@ -1118,7 +1067,7 @@ limitations. - Provide setup instructions.
 **Acceptance criteria:** usable interface, correct calculations,
 sensible handling of empty results, and clear documentation.
 
-## Project 4 --- Production-Style ML Capstone (Months 9--12)
+## 🧩 Project 4 — Production-Style ML Capstone (Months 9--12)
 
 **Skills:** Python, scikit-learn, FastAPI, pytest, Docker, MLflow,
 GitHub Actions.
@@ -1133,58 +1082,36 @@ tests, start the service, and make a prediction using the README.
 A modest project with sound methodology is better than an
 impressive-looking project with leakage or unsupported claims.
 
-------------------------------------------------------------------------
-
-# 7. Free Learning Resource Library
+---
+# 📚 7. Free Learning Resource Library
 
 Use one primary resource per subject. Avoid collecting courses before
 completing exercises.
 
-  -------------------------------------------------------------------------------------------------------------
-  Subject                             Resource
-  ----------------------------------- -------------------------------------------------------------------------
-  Practical data analysis and         [Kaggle Learn](https://www.kaggle.com/learn)
-  introductory ML                     
-
-  Statistics and ML intuition         [StatQuest](https://www.youtube.com/@statquest)
-
-  Interactive SQL practice            [SQLBolt](https://sqlbolt.com/)
-
-  NumPy                               [NumPy documentation](https://numpy.org/doc/stable/)
-
-  Pandas                              [Pandas documentation](https://pandas.pydata.org/docs/)
-
-  Statistics and scientific computing [SciPy](https://docs.scipy.org/doc/scipy/) and
-                                      [Statsmodels](https://www.statsmodels.org/stable/)
-
-  Classical ML                        [Scikit-learn](https://scikit-learn.org/stable/getting_started.html)
-
-  Visualization                       [Matplotlib tutorials](https://matplotlib.org/stable/tutorials/) and
-                                      [Seaborn tutorials](https://seaborn.pydata.org/tutorial.html)
-
-  Interactive dashboards              [Streamlit](https://docs.streamlit.io/)
-
-  Testing                             [pytest](https://docs.pytest.org/)
-
-  APIs                                [FastAPI](https://fastapi.tiangolo.com/tutorial/)
-
-  Containers                          [Docker Get Started](https://docs.docker.com/get-started/)
-
-  Experiment tracking                 [MLflow](https://mlflow.org/docs/latest/ml/getting-started/quickstart/)
-
-  CI                                  [GitHub Actions](https://docs.github.com/en/actions)
-
-  Later deep learning                 [PyTorch beginner
-                                      tutorials](https://docs.pytorch.org/tutorials/beginner/basics/)
-  -------------------------------------------------------------------------------------------------------------
+| Subject | Resource |
+|---|---|
+| Practical data analysis and introductory ML | [Kaggle Learn](https://www.kaggle.com/learn) |
+| Statistics and ML intuition | [StatQuest](https://www.youtube.com/@statquest) |
+| Interactive SQL practice | [SQLBolt](https://sqlbolt.com/) |
+| NumPy | [NumPy documentation](https://numpy.org/doc/stable/) |
+| Pandas | [Pandas documentation](https://pandas.pydata.org/docs/) |
+| Statistics and scientific computing | [SciPy](https://docs.scipy.org/doc/scipy/) and [Statsmodels](https://www.statsmodels.org/stable/) |
+| Classical ML | [Scikit-learn](https://scikit-learn.org/stable/getting_started.html) |
+| Visualization | [Matplotlib tutorials](https://matplotlib.org/stable/tutorials/) and [Seaborn tutorials](https://seaborn.pydata.org/tutorial.html) |
+| Interactive dashboards | [Streamlit](https://docs.streamlit.io/) |
+| Testing | [pytest](https://docs.pytest.org/) |
+| APIs | [FastAPI](https://fastapi.tiangolo.com/tutorial/) |
+| Containers | [Docker Get Started](https://docs.docker.com/get-started/) |
+| Experiment tracking | [MLflow](https://mlflow.org/docs/latest/ml/getting-started/quickstart/) |
+| CI | [GitHub Actions](https://docs.github.com/en/actions) |
+| Later deep learning | [PyTorch beginner tutorials](https://docs.pytorch.org/tutorials/beginner/basics/) |
 
 Prioritize NumPy, Pandas, SQL, statistics, scikit-learn, and
 visualization in the first eight months. Begin PyTorch only when the
 classical ML workflow and evaluation concepts are solid.
 
-------------------------------------------------------------------------
-
-# 8. Monthly Milestone Checklist
+---
+# 🎯 8. Monthly Milestone Checklist
 
 Mark each milestone complete only when you can demonstrate it
 independently.
@@ -1214,9 +1141,8 @@ independently.
 -   [ ] **Month 12:** Publish a polished portfolio and prepare a
     realistic graduate-study plan.
 
-------------------------------------------------------------------------
-
-# 9. Master's Abroad Preparation
+---
+# 🎓 9. Master's Abroad Preparation
 
 Treat graduate-school preparation as a parallel activity.
 
@@ -1239,9 +1165,8 @@ Requirements vary by university and intake. A portfolio demonstrates
 technical ability but does not replace grades, prerequisites, or
 research preparation.
 
-------------------------------------------------------------------------
-
-# 10. Rules for the Year
+---
+# 📜 10. Rules for the Year
 
 1.  Do not rush through a topic if you cannot explain it or solve a
     basic problem independently.
@@ -1258,7 +1183,7 @@ research preparation.
 6.  Use a weekly buffer for university exams and assignments. Resume
     from the last unfinished task rather than restarting the plan.
 
-## First Action
+## 🚀 First Action
 
 Start Week 1 with NumPy broadcasting and array operations. Create your
 notes folder, complete a short exercise set, and commit your work to
@@ -1272,6 +1197,5 @@ and a credible portfolio for internships, early-career opportunities,
 and future master's applications. This is a structured target, not a
 guarantee of employment or admission.
 
-------------------------------------------------------------------------
-
+---
 *Learn the concepts. Test the assumptions. Build the solution.*
