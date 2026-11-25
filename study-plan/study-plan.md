@@ -907,35 +907,32 @@ and weaknesses, not simply on the number of courses completed.
 ---
 # 📝 4. Notes and Revision System
 
-Keep notes separate from projects. A local folder or a GitHub repository
-works well.
+The repository currently keeps topic notes separate from hands-on
+exercises. Its structure is:
 
-## 🧱 Suggested structure
+## 🧱 Current repository structure
 
 ``` text
-data-science-learning/
-├── notes/
-│   ├── 01-python-numpy-pandas.md
-│   ├── 02-sql.md
-│   ├── 03-probability.md
-│   ├── 04-statistics-inference.md
-│   ├── 05-machine-learning.md
-│   ├── 06-model-evaluation.md
-│   └── 07-ml-engineering.md
+ds-ml-workbench/
+├── README.md
+├── study-plan/
+│   └── study-plan.md
 ├── exercises/
-│   ├── sql/
-│   ├── statistics/
-│   └── machine-learning/
-├── projects/
-│   ├── eda/
-│   ├── predictive-model/
-│   ├── dashboard/
-│   └── capstone/
-└── revision/
-    ├── mistakes.md
-    ├── formula-sheet.md
-    └── monthly-reviews.md
+│   └── numpy-pandas/
+│       ├── numpy/
+│       │   ├── arrays-and-vectorization/
+│       │   └── numpy-operations/
+│       └── pandas/
+├── notes/
+│   └── numpy-pandas-data-cleaning-git/
+│       ├── 01-numpy-arrays-and-vectorization/
+│       ├── 02-numpy-operations/
+│       └── 03-pandas-manipulation/
 ```
+
+The note folders contain numbered Python lesson files and READMEs; the
+exercise folders contain numbered Jupyter notebooks. Project and
+revision folders can be added as those parts of the plan are completed.
 
 ## 🧾 Topic note template
 
