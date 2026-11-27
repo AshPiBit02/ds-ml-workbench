@@ -1,0 +1,4 @@
+# Data Quality Inspection Report
+1. The report is based on the raw data of penguins which is begin cleaned for analysis to obtain results that will be discussed in further reports.
+2. The raw data contains 344 rows and 8 columns altogether where the total number of numeric column is 5 and that of categorical is 3.
+3. There is not any exact duplicated rows but some columns contains missing values. 'sex' columns has the greatest number of missing values which is 11, columns 'bill_length_mm', 'bill_depth_mm', 'flipper_length_mm', and 'body_mass_g' have 2 missing values each, and rest columns doesn't have any missing values.
